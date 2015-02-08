@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dialog_edit_item">
+        <item>Правка</item>
+        <item>Удалить</item>
+    </string-array>
+    <string-array name="log_type">
+        <item>Интерфейс пользователя</item>
+        <item>Телефония</item>
+        <item>Услуга передачи данных</item>
+        <item>Местоположение</item>
+        <item>Мультимедиа</item>
+        <item>Камера</item>
+        <item>WiFi</item>
+        <item>Bluetooth</item>
+        <item>Аудио FM</item>
+        <item>PowerBatt</item>
+        <item>Аварийный отказ</item>
+        <item>Другое</item>
+    </string-array>
+    <string-array name="upload_mode_entries">
+        <item>Производство</item>
+        <item>Разработка</item>
+        <item>Тестирование</item>
+    </string-array>
+    <string-array name="upload_mode_values">
+        <item>production</item>
+        <item>development</item>
+        <item>testing</item>
+    </string-array>
+    <string-array name="log_server_entries">
+        <item>Сан-Диего</item>
+        <item>Шанхай</item>
+        <item>FTP</item>
+    </string-array>
+    <string-array name="log_server_values">
+        <item>https://qrdlog.qualcomm.com</item>
+        <item>https://qrd-dm.qualcomm.com</item>
+        <item>FtpServer</item>
+    </string-array>
+    <string-array name="upload_phase">
+        <item>FUT</item>
+        <item>Эксплуатационные испытания, ESG</item>
+        <item>Эксплуатационные испытания, CleNET</item>
+        <item>Группа UX</item>
+        <item>Loc Tech</item>
+        <item>FUT-QIPL</item>
+        <item>Эксплуатационные испытания, Vivo</item>
+    </string-array>
+    <string-array name="load_profile_entries">
+        <item>Локально</item>
+        <item>Удаленно</item>
+    </string-array>
+    <string-array name="runtime_entries">
+        <item>ВКЛ.</item>
+        <item>ВЫКЛ.</item>
+    </string-array>
+    <string-array name="runtime_values">
+        <item>ВКЛ.</item>
+        <item>ВЫКЛ.</item>
+    </string-array>
+</resources>

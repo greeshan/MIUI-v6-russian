@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Ответить</item>
+        <item>Ответить всем</item>
+        <item>Переслать</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Мелкий</item>
+        <item>Нормальный</item>
+        <item>Средний</item>
+        <item>Большой</item>
+        <item>Огромный</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>По умолчанию</item>
+        <item>Формат</item>
+        <item>Имя</item>
+        <item>Отправитель</item>
+        <item>Дата</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Система</item>
+        <item>Недавние</item>
+        <item>Все папки</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Перейти к новому сообщению</item>
+        <item>Перейти к старому сообщению</item>
+        <item>Перейти к списку диалогов</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Показывать архивы</item>
+        <item>Показывать удаленные</item>
+        <item>Показывать архивы и удаленные</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Показывать новое сообщение после удаления</item>
+        <item>Показывать старое сообщение после удаления</item>
+        <item>Показывать список диалогов после удаления</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Показывать архивы</item>
+        <item>Показывать удаленные</item>
+        <item>Показывать архивы и удаленные</item>
+    </string-array>
+    <string-array name="signature_normal_string_array">
+        <item>Блог:</item>
+        <item>Сайт:</item>
+        <item>Email:</item>
+        <item>Мобильный телефон:</item>
+        <item>Домашний телефон:</item>
+        <item>T:</item>
+        <item>www.</item>
+        <item>F:</item>
+        <item>E:</item>
+        <item>Email:</item>
+        <item>Тел:</item>
+        <item>Факс:</item>
+        <item>Почта:</item>
+        <item>QQ:</item>
+        <item>MSN:</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>Адрес:</item>
+        <item>Телефон:</item>
+        <item>Имя:</item>
+        <item>Email:</item>
+        <item>Мобильный:</item>
+        <item>WeChat:</item>
+        <item>Факс:</item>
+        <item>Почтовый индекс:</item>
+    </string-array>
+    <string-array name="signature_special_string_array">
+        <item>Отказ от ответственности:</item>
+        <item>Отказ от ответственности Email</item>
+        <item>Отправлено через WPSMail</item>
+        <item>Отправлено с</item>
+        <item>Отправлено с</item>
+        <item>Спасибо,</item>
+        <item>С уважением</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>Спасибо,</item>
+        <item>С уважением</item>
+        <item>Отправлено с моего</item>
+        <item>Оригинальный Email</item>
+        <item>Отправлено с моего</item>
+        <item>Отправлено с</item>
+        <item>С</item>
+        <item>Этот Email</item>
+        <item>Отказ от ответственности</item>
+        <item>Отказ от ответственности Email</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Готово</item>
+        <item>Нет соединения</item>
+        <item>Невозможно авторизоваться</item>
+        <item>Ошибка безопасности</item>
+        <item>Невозможно синхронизировать</item>
+        <item>Ошибка сервера</item>
+    </string-array>
+</resources>
