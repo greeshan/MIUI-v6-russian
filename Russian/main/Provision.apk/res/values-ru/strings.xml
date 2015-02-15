@@ -2,7 +2,7 @@
 <!-- Parsed by jbart2a -->
 <resources>
      <string name="agree">Подтверждаю</string>
-     <string name="congratulation_label">Наслаждайтесь свои смартфоном :)</string>
+     <string name="congratulation_label">Наслаждайтесь своим смартфоном :)</string>
      <string name="congratulation_next">ОК</string>
      <string name="disagree">Отмена</string>
      <string name="ime_privacy_policy">Политика конфиденциальности для выбранной клавиатуры</string>
@@ -19,7 +19,7 @@
      <string name="multisim_settings_category">Установки SIM-карты</string>
      <string name="multisim_settings_title">Обнаружено 2 SIM-карты</string>
      <string name="network_access_warning">Вам необходимо подключиться к Интернету, чтобы активировать Mi-Сервисы.</string>
-     <string name="next">Следуюший</string>
+     <string name="next">Далее</string>
      <string name="other_settings">Дополнительные настройки</string>
      <string name="other_settings_location">Доступ к местоположению</string>
      <string name="other_settings_location_summary">Разрешить картам и другим приложениям определять местоположение с помощью GPS</string>
@@ -46,4 +46,5 @@
 Вы должны принять Пользовательское соглашение и Политику конфиденциальности, чтобы начать использовать MIUI."</string>
      <string name="user_agreement">Пользовательское соглашение</string>
      <string name="welcome">Добро пожаловать</string>
+	 <string name="title_congratulation">"Все готово!"</string>
 </resources>
