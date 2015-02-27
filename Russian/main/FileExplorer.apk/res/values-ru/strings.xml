@@ -330,4 +330,5 @@
      <string name="wifi_state">Статус Wi-Fi</string>
      <string name="xiaomi_account">Аккаунт Xiaomi</string>
      <string name="yes">OK</string>
+	 <string name="delete_dialog_button">Удалить</string>
 </resources>
