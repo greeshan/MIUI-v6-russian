@@ -83,60 +83,60 @@
      <string name="lockpattern_pattern_confirmed_header">Ваш новый шаблон разблокировки:</string>
      <string name="lockpattern_pattern_entered_header">Шаблон записан.</string>
      <string name="lockpattern_recording_incorrect_too_short">Подключите как минимум %d точек. Попробуйте снова:</string>
-     <string name="lockpattern_recording_inprogress">Release finger when done.</string>
-     <string name="lockpattern_recording_intro_header">Draw an unlock pattern:</string>
-     <string name="lockpattern_redraw_button_text">Redraw</string>
+     <string name="lockpattern_recording_inprogress">Отпустите палец по завершении.</string>
+     <string name="lockpattern_recording_intro_header">Нарисуйте шаблон разблокировки:</string>
+     <string name="lockpattern_redraw_button_text">Перересуйте</string>
      <string name="lockpattern_retry_text"><u>Reset pattern password</u></string>
-     <string name="lockpattern_settings_help_how_to_record">How to draw an unlock pattern</string>
-     <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Try again in %d seconds.</string>
-     <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red>Too many incorrect attempts!&lt;/font></string>
-     <string name="lockpattern_tutorial_cancel_label">Cancel</string>
-     <string name="lockpattern_tutorial_close_label">Close</string>
-     <string name="lockpattern_tutorial_continue_label">Next</string>
-     <string name="lockpattern_tutorial_jump_label">Jump</string>
-     <string name="lockscreen_forgot_pattern_button_text"><u>Forgot pattern password</u></string>
-     <string name="login">登录</string>
-     <string name="main_preference_screen_title">Settings</string>
+     <string name="lockpattern_settings_help_how_to_record">Как нарисовать шаблон разблокировки</string>
+     <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Попробуйте снова через %d секунд.</string>
+     <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red>Слишком много неправильных попыток!&lt;/font></string>
+     <string name="lockpattern_tutorial_cancel_label">Отмена</string>
+     <string name="lockpattern_tutorial_close_label">Закрыть</string>
+     <string name="lockpattern_tutorial_continue_label">Следующий</string>
+     <string name="lockpattern_tutorial_jump_label">Перейти</string>
+     <string name="lockscreen_forgot_pattern_button_text"><u>Забыть шаблон пароля</u></string>
+     <string name="login">Войти</string>
+     <string name="main_preference_screen_title">Настройки</string>
      <string name="mycard_scan_barcode">MiID Code Scanner</string>
-     <string name="new_pattern_tip">请输入&lt;font color=#fb3500>新&lt;/font>手势密码图案，至少连接四个点</string>
+     <string name="new_pattern_tip">Пожалуйста, введите&lt;font color=#fb3500>новый&lt;/font>шаблон пароля, соеденив не менее четырех точек</string>
      <string name="ok">OK</string>
      <string name="ok_button">OK</string>
-     <string name="open_camera_exception_dialog_content">系统相机出现问题，可能需要重启设备。</string>
-     <string name="open_camera_exception_dialog_title">camera malfunction</string>
+     <string name="open_camera_exception_dialog_content">Проблема с системной камерой, вам необходимо перезагрузить систему</string>
+     <string name="open_camera_exception_dialog_title">неисправность камеры</string>
      <string name="opensource_page_url">http://code.Xiaomi.com/p/Xiaomi-authenticator/</string>
      <string name="opensource_preference_title">Open-source project</string>
-     <string name="original_pattern_tip">请输入&lt;font color=#fb3500>原&lt;/font>手势密码图案</string>
-     <string name="password_error">请检查您的密码</string>
-     <string name="password_forget">忘了?</string>
-     <string name="password_hint">请输入小米帐户登录密码</string>
+     <string name="original_pattern_tip">Пожалуйста, введите&lt;font color=#fb3500>оригинальный&lt;/font>пароль жестом</string>
+     <string name="password_error">Пожалуйста, проверьте Ваш пароль</string>
+     <string name="password_forget">Забыли пароль?</string>
+     <string name="password_hint">Пожалуйста, введите пароль</string>
      <string name="privacy_page_url">http://www.Xiaomi.com/policies/privacy/</string>
      <string name="privacy_preference_title">Privacy policy</string>
-     <string name="progress_loading">正在处理…</string>
+     <string name="progress_loading">обрабатывается…</string>
      <string name="remove_Xiaomi_account_dialog_message">Removing this account will &lt;b>remove your ability&lt;/b> to generate codes, however, it will &lt;b>not&lt;/b> turn off 2-step verification. This may prevent you from signing into your account. &lt;p> Before removing: &lt;ul> &lt;li>Turn off 2-step verification for this account, or&lt;/li> &lt;li>Ensure you have an alternate mechanism for generating codes.&lt;/li> &lt;/ul></string>
-     <string name="remove_account_dialog_button_remove">Remove account</string>
+     <string name="remove_account_dialog_button_remove">Удалить аккаунт</string>
      <string name="remove_account_dialog_message">Removing this account will &lt;b>remove your ability&lt;/b> to generate codes, however, it will &lt;b>not&lt;/b> turn off 2-factor authentication. This may prevent you from signing into your account. &lt;p> Before removing: &lt;ul> &lt;li>Turn off 2-factor authentication for this account, or&lt;/li> &lt;li>Ensure you have an alternate mechanism for generating codes.&lt;/li> &lt;/ul></string>
      <!-- MNPS mismatch found! Translated: 1 Original: 0
 	%s: 1 Original: 0
 	%d: 0 Original: 0 -->
      <!-- Original string: Odstrániť tento účet? -->
-     <string name="remove_account_dialog_title">Remove %1$s?</string>
-     <string name="rename">Rename</string>
-     <string name="rename_message">Rename %1$s</string>
-     <string name="resetbtn_patternforgotten">立即重置</string>
-     <string name="save_key_message">Save key for</string>
+     <string name="remove_account_dialog_title">Удалить %1$s?</string>
+     <string name="rename">Переименовать</string>
+     <string name="rename_message">Переименовать %1$s</string>
+     <string name="resetbtn_patternforgotten">Сбросить</string>
+     <string name="save_key_message">Сохранить ключ для</string>
      <string name="scan_barcode">Scan MiID</string>
      <string name="scan_barcode_info">Place and scan a MiID barcode inside of this viewfinder.</string>
-     <string name="secret_saved">Secret saved</string>
-     <string name="security_setting">Security settings</string>
-     <string name="settings_menu_item">Settings</string>
-     <string name="submit">Save</string>
-     <string name="success_copy_to_clipboard">Skopírované do schránky</string>
-     <string name="success_reset_password">密码重置成功</string>
-     <string name="success_set_password">密码设置成功</string>
-     <string name="summary_lockpattern">Require a unique pattern lock for MiCredit</string>
+     <string name="secret_saved">Секрет сохранен</string>
+     <string name="security_setting">Настройки безопасности</string>
+     <string name="settings_menu_item">Настройки</string>
+     <string name="submit">Сохранить</string>
+     <string name="success_copy_to_clipboard">Скопировано в буфер обмена</string>
+     <string name="success_reset_password">Пароль сброшен успешно</string>
+     <string name="success_set_password">Пароль успешно установлен</string>
+     <string name="summary_lockpattern">Необходим уникальный шаблон замка для MiCredit</string>
      <string name="terms_page_url">http://m.Xiaomi.com/tospage</string>
-     <string name="terms_preference_title">Terms of service</string>
-     <string name="timesync_about_feature_preference_title">About this feature</string>
+     <string name="terms_preference_title">Условия предоставления услуг</string>
+     <string name="timesync_about_feature_preference_title">Об этой функции</string>
      <string name="timesync_about_feature_screen_details">"If you press &amp;quot;Sync now&amp;quot;, Authenticator will attempt to sync its internal clock with Google servers once. The device's Date &amp; Time settings will not be changed. &lt;p> Authenticator does not transmit any personal data or account information while synchronizing its internal clock with Google servers. &lt;p> &lt;b>Why this is useful&lt;/b> &lt;p> Authenticator generates 2-step verification codes based on 1) the current time, and 2) a secret number known to the app and the server. &lt;p> If Authenticator and the server disagree on what time it is, the codes that the app generates may not be accepted when you try to log in. &lt;p> By default Authenticator uses the device's Date &amp; Time settings, and in most cases you will be able to generate valid codes by making sure your time, date, and time zone settings are configured correctly. However, when time mismatches do occur, they can be hard to troubleshoot (especially if you use network-provided time or time zones)."</string>
      <string name="timesync_about_feature_screen_title">About this feature</string>
      <string name="timesync_preference_screen_summary">"Sync Authenticator's internal clock with servers"</string>
