@@ -32,9 +32,9 @@
     <string name="screen_rotation_freeze_message">Поворот экрана заблокирован</string>
     <string name="screen_button_disabled_message">Клавиши навигации отключены. Вы можете включить их снова, нажав клавиши \"Домой\" + \"Питание\".</string>
     <string name="screen_button_enabled_message">Клавиши навигации включены</string>
-    <string name="shutdown_confirm_title">Выключить телефон?</string>
+    <string name="shutdown_confirm_title">Выключить устройство?</string>
     <string name="shutdown_progress">Выключение…</string>
-    <string name="reboot_confirm_title">Перезагрузить телефон?</string>
+    <string name="reboot_confirm_title">Перезагрузить устройство?</string>
     <string name="reboot_progress">Перезагрузка…</string>
     <string name="memory_clear_result">"Очищено: %1$s
 Свободно: %2$s"</string>
@@ -53,7 +53,7 @@
     <string name="global_actions_shutdown">Выключение</string>
     <string name="global_actions_silent_mode">Режим \"Без звука\"</string>
     <string name="screen_on_proximity_sensor_title">Предотвращение случайных нажатий</string>
-    <string name="screen_on_proximity_sensor_summary">Не закрывайте верхнюю часть телефона</string>
+    <string name="screen_on_proximity_sensor_summary">Не закрывайте верхнюю часть устройства</string>
     <string name="screen_on_proximity_sensor_hint">Принудительный выход: нажмите кнопки \"Назад\"+\"Громкость +\"</string>
     <string name="first_back_long_press_message">"Вы хотите, чтобы при длительном нажатии клавиши \"Назад\" закрывалось текущее приложение и его службы? 
 

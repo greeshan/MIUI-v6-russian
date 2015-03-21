@@ -186,7 +186,7 @@
     <string name="bluetooth_profile_details">Настройки профиля</string>
     <string name="bluetooth_name_not_set">Без настройки имени, использовать имя аккаунта</string>
     <string name="bluetooth_scan_for_devices">Поиск устройств</string>
-    <string name="bluetooth_rename_device">Переименовать телефон</string>
+    <string name="bluetooth_rename_device">Переименовать устройство</string>
     <string name="bluetooth_rename_button">Переименовать</string>
     <string name="bluetooth_disconnect_title">Отключиться?</string>
     <string name="bluetooth_disconnect_all_profiles">Произойдет разъединение с устройством &lt;br>&lt;b>%1$s&lt;/b></string>
@@ -212,10 +212,10 @@
     <string name="device_picker">Выбор устройства Bluetooth</string>
     <string name="bluetooth_permission_request">Запрос разрешения на включение Bluetooth</string>
     <string name="bluetooth_ask_enablement">Разрешить приложению включить Bluetooth?</string>
-    <string name="bluetooth_ask_discovery">Одному из приложений нужно, чтобы ваш телефон был доступен для поиска на других устройствах в течение %1$d сек. Включить Bluetooth?</string>
-    <string name="bluetooth_ask_lasting_discovery">Одному из приложений нужно, чтобы ваш телефон был доступен для поиска на других устройствах. Включить Bluetooth?</string>
-    <string name="bluetooth_ask_enablement_and_discovery">Одному из приложений нужно, чтобы ваш телефон был доступен для поиска на других устройствах в течение %1$d сек. Включить Bluetooth?</string>
-    <string name="bluetooth_ask_enablement_and_lasting_discovery">Одному из приложений нужно, чтобы ваш телефон был доступен для поиска на других устройствах. Включить Bluetooth?</string>
+    <string name="bluetooth_ask_discovery">Одному из приложений нужно, чтобы ваше устройство было доступно для поиска в течение %1$d сек. Включить Bluetooth?</string>
+    <string name="bluetooth_ask_lasting_discovery">Одному из приложений нужно, чтобы ваше устройство было доступно для поиска. Включить Bluetooth?</string>
+    <string name="bluetooth_ask_enablement_and_discovery">Одному из приложений нужно, чтобы ваше устройство было доступно для поиска в течение %1$d сек. Включить Bluetooth?</string>
+    <string name="bluetooth_ask_enablement_and_lasting_discovery">Одному из приложений нужно, чтобы ваше устройство было доступно для поиска. Включить Bluetooth?</string>
     <string name="bluetooth_turning_on">Включение Bluetooth…</string>
     <string name="bluetooth_turning_off">Выключение Bluetooth…</string>
     <string name="bluetooth_auto_connect">Автоматическое подключение</string>
@@ -313,7 +313,7 @@
     <string name="device_info_label">Сведения об устройстве</string>
     <string name="battery_info_label">Информация о батарее</string>
     <string name="display_label">Экран</string>
-    <string name="phone_info_label">Информация о телефоне</string>
+    <string name="phone_info_label">Информация об устройстве</string>
     <string name="sd_card_settings_label">SD карта</string>
     <string name="proxy_settings_label">Настройки прокси</string>
     <string name="cancel">Отмена</string>
@@ -327,7 +327,7 @@
     <string name="roaming">Интернет роуминг</string>
     <string name="roaming_enable">Подключаться к службам передачи данных при роуминге</string>
     <string name="roaming_disable">Подключаться к службам передачи данных при роуминге</string>
-    <string name="roaming_reenable_message">Передача данных прекращена, потому что телефон находится за пределами домашней сети, а интернет-роуминг выключен</string>
+    <string name="roaming_reenable_message">Передача данных прекращена, потому что устройство находится за пределами домашней сети, а интернет-роуминг выключен.</string>
     <string name="roaming_turn_it_on_button">Включить</string>
     <string name="roaming_warning">Разрешить интернет роуминг? Возможны высокие расходы за использование роуминга.</string>
     <string name="roaming_warning_multiuser">Использование передачи данных в роуминге может привести к большому потреблению трафика.</string>
@@ -373,9 +373,9 @@
     <string name="security_passwords_title">Пароли</string>
     <string name="crypt_keeper_settings_title">Шифрование</string>
     <string name="crypt_keeper_encrypt_title">Зашифровать телефон</string>
-    <string name="crypt_keeper_encrypt_summary">Запрос числового PIN кода или пароля для дешифрования при каждом включении телефона</string>
+    <string name="crypt_keeper_encrypt_summary">Запрос цифрового PIN кода или пароля для дешифрования при каждом включении устройства</string>
     <string name="crypt_keeper_encrypted_summary">Зашифровано</string>
-    <string name="crypt_keeper_desc">"Шифрование доступно для аккаунтов, настроек, загруженных приложений и их данных, а также для мультимедийных и прочих файлов. После шифрования данных телефона при каждом его включении необходимо будет вводить числовой PIN код или пароль, чтобы выполнить дешифрование данных. Единственный способ отключить шифрование – сброс настроек, в результате которого все данные будут потеряны.
+    <string name="crypt_keeper_desc">"Шифрование доступно для аккаунтов, настроек, загруженных приложений и их данных, а также для мультимедийных и прочих файлов. После шифрования данных устройства при каждом его включении необходимо будет вводить числовой PIN код или пароль, чтобы выполнить дешифрование данных. Единственный способ отключить шифрование – сброс настроек, в результате которого все данные будут потеряны.
 
 Шифрование займет не менее одного часа. Перед его запуском необходимо подключить зарядное устройство и не отключать его до окончания операции. В случае прерывания шифрования будут потеряны все данные или часть из них"</string>
     <string name="crypt_keeper_button_text">Зашифровать телефон</string>
@@ -384,13 +384,13 @@
     <string name="crypt_keeper_dialog_need_password_title">Не указан PIN код или пароль блокировки экрана</string>
     <string name="crypt_keeper_dialog_need_password_message">Перед шифрованием необходимо задать PIN код или пароль блокировки экрана</string>
     <string name="crypt_keeper_confirm_title">Подтвердить шифрование</string>
-    <string name="crypt_keeper_final_desc">Выполнить шифрование данных телефона? Эта операция необратима, и в случае ее прерывания данные будут потеряны. Шифрование займет не менее одного часа. Во время шифрования устройство будет перезагружено несколько раз</string>
+    <string name="crypt_keeper_final_desc">Выполнить шифрование данных устройства? Эта операция необратима, и в случае ее прерывания данные будут потеряны. Шифрование займет не менее одного часа. Во время шифрования устройство будет перезагружено несколько раз</string>
     <string name="crypt_keeper_setup_title">Шифрование</string>
-    <string name="crypt_keeper_setup_description">Дождитесь завершения шифрования телефона. Выполнено: ^1%.</string>
+    <string name="crypt_keeper_setup_description">Дождитесь завершения шифрования. Выполнено: ^1%.</string>
     <string name="crypt_keeper_cooldown">Повторите попытку через ^1 с.</string>
     <string name="crypt_keeper_enter_password">Введите пароль</string>
     <string name="crypt_keeper_failed_title">Сбой шифрования</string>
-    <string name="crypt_keeper_failed_summary">"Данные на вашем телефоне больше недоступны из-за прерванного шифрования.
+    <string name="crypt_keeper_failed_summary">"Данные на вашем устройстве больше недоступны из-за прерванного шифрования.
 
 Чтобы продолжить использовать устройство, выполните сброс до заводских настроек. После этого вы сможете восстановить все данные, для которых в аккаунте Google были созданы резервные копии"</string>
     <string name="crypt_keeper_switch_input_method">Переключение метода ввода</string>
@@ -501,7 +501,7 @@
     <string name="bluetooth_disconnect_headset_profile">Устройство %1$s будет отключено от гарнитуры</string>
     <string name="bluetooth_disconnect_hid_profile">%1$s отключается от устройства ввода</string>
     <string name="bluetooth_disconnect_pan_user_profile">Доступ в Интернет через устройство %1$s будет отключен</string>
-    <string name="bluetooth_disconnect_pan_nap_profile">Интернет-подключение телефона перестанет использоваться устройством %1$s</string>
+    <string name="bluetooth_disconnect_pan_nap_profile">Интернет-подключение перестанет использоваться устройством %1$s</string>
     <string name="bluetooth_device_advanced_title">Тип подключения</string>
     <string name="bluetooth_device_advanced_online_mode_title">Подключить</string>
     <string name="bluetooth_device_advanced_online_mode_summary">Подключиться к устройству Bluetooth</string>
@@ -509,7 +509,7 @@
     <string name="bluetooth_device_advanced_rename_device">Переименовать</string>
     <string name="bluetooth_device_advanced_enable_opp_title">Разрешить получение файлов</string>
     <string name="bluetooth_a2dp_profile_summary_connected">Подключено к мультимедийному аудиоустройству</string>
-    <string name="bluetooth_headset_profile_summary_connected">Подключено к аудиоустройству телефона</string>
+    <string name="bluetooth_headset_profile_summary_connected">Подключено к аудиоустройству</string>
     <string name="bluetooth_opp_profile_summary_connected">Установлено подключение к серверу передачи файлов</string>
     <string name="bluetooth_map_profile_summary_connected">Подключено</string>
     <string name="bluetooth_opp_profile_summary_not_connected">Нет подключения к серверу передачи файлов</string>
@@ -517,7 +517,7 @@
     <string name="bluetooth_pan_user_profile_summary_connected">Используется интернет-подключение другого устройства</string>
     <string name="bluetooth_pan_nap_profile_summary_connected">Устройство работает в режиме модема</string>
     <string name="bluetooth_a2dp_profile_summary_use_for">Использовать для мультимедийного аудиоустройства</string>
-    <string name="bluetooth_headset_profile_summary_use_for">Использовать для аудиоустройства телефона</string>
+    <string name="bluetooth_headset_profile_summary_use_for">Использовать для аудиоустройства</string>
     <string name="bluetooth_opp_profile_summary_use_for">Используется для передачи файлов</string>
     <string name="bluetooth_hid_profile_summary_use_for">Использовать для ввода</string>
     <string name="bluetooth_pan_profile_summary_use_for">Использовать для доступа к Интернету</string>
@@ -667,7 +667,7 @@
     <string name="wifi_dont_skip">Не пропускать</string>
     <string name="wifi_skipped_message">"Внимание! 
 Возможен большой расход мобильного трафика."</string>
-    <string name="wifi_and_mobile_skipped_message">Предупреждение: При активном интернет соединении, телефон не сможет проверить наличие обновлений ПО.</string>
+    <string name="wifi_and_mobile_skipped_message">При активном интернет соединении устройство не сможет проверить наличие обновлений ПО</string>
     <string name="wifi_connect_failed_message">Не удалось подключиться к сети Wi-Fi</string>
     <string name="wifi_advanced_titlebar">Дополнительно</string>
     <string name="wifi_setting_frequency_band_title">Диапазон частот Wi-Fi</string>

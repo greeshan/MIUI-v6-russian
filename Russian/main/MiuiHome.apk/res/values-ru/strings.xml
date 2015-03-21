@@ -13,6 +13,7 @@
     <string name="lock_screen_failed_message">Не удалось применить</string>
     <string name="lock_screen_success_message">Установлено на экран блокировки</string>
     <string name="wallpaper_failed_message">Не удалось установить обои</string>
+    <string name="image_too_small_message">Изображение слишком маленькое</string>
     <string name="wallpaper_success_message">Обои установлены</string>
     <string name="is_setting_wallpaper_toast">Установка обоев…</string>
     <string name="current_wallpaper">Выбранные</string>
@@ -216,7 +217,7 @@
     <string name="app_category_games">Игры</string>
     <string name="app_category_news">Новости</string>
     <string name="app_category_lifestyle">Стиль жизни</string>
-    <string name="app_category_tools">Интрументы</string>
+    <string name="app_category_tools">Инструменты</string>
     <string name="app_category_entertainment">Развлечения</string>
     <string name="app_category_education">Образование</string>
     <string name="app_category_books">Книги</string>

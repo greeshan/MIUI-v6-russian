@@ -14,7 +14,7 @@
     <string name="perm_privacy_app_launch">Открыть</string>
     <string name="perm_privacy_app_installed">Установка завершена!</string>
     <string name="perm_sysopt_boost_auto_start">Разрешить автозапуск</string>
-    <string name="perm_sysopt_boost_auto_start_summary">Разрешить приложению автозапуск при загрузке телефона</string>
+    <string name="perm_sysopt_boost_auto_start_summary">Разрешить приложению автозапуск при загрузке устройства</string>
     <string name="perm_privacy_app_trust">Доверять приложению</string>
     <string name="perm_privacy_app_trust_summary">Система не будет следить за этим приложением</string>
     <string name="perm_action_accept">Разрешить</string>
@@ -58,14 +58,14 @@
     <string name="install_failed_invalid_apk">Файл поврежден</string>
     <string name="install_failed_inconsistent_certificates">Подпись обновления не совпадает с подписью установленного приложения. Перед установкой удалите старую версию.</string>
     <string name="install_failed_older_sdk">Этот пакет поддерживается только в системе Android более поздних версий</string>
-    <string name="install_failed_cpu_abi_incompatible">Процессор телефона не поддерживает это приложение</string>
+    <string name="install_failed_cpu_abi_incompatible">Процессор устройства не поддерживает это приложение</string>
     <string name="install_failed_file_not_found">Указанный пакет удален до завершения установки</string>
     <string name="install_failed_verify_failed">Пакет не проверен и не может быть установлен</string>
     <string name="install_failed_verify_timeout">Не удалось проверить пакет. Попробуйте установить его позже.</string>
     <string name="install_failed_msg">Не удалось установить приложение \"%1$s\"</string>
     <string name="launch">Открыть</string>
     <string name="unknown_apps_dlg_title">Установка заблокирована</string>
-    <string name="unknown_apps_dlg_text">Для обеспечения безопасности на вашем телефоне заблокирована установка приложений, полученных не из Google Play</string>
+    <string name="unknown_apps_dlg_text">Для обеспечения безопасности на вашем устройстве заблокирована установка приложений, полученных не из Google Play.</string>
     <string name="ok">ОК</string>
     <string name="settings">Настройки</string>
     <string name="allow_source_dlg_title">Разрешить добавление нового источника для приложений?</string>

@@ -37,7 +37,7 @@
     <string name="account_settings_background_attachments_label">Автозагрузка вложений</string>
     <string name="account_settings_background_attachments_summary">Автозагрузка вложений по Wi-Fi</string>
     <string name="account_settings_chat_mode_enable">Режим диалогов</string>
-    <string name="account_settings_chat_mode_summary">Нажмите для объединения сообщений в диалог</string>
+    <string name="account_settings_chat_mode_summary">Объединить сообщения в диалог</string>
     <string name="account_settings_data_usage">Использование данных</string>
     <string name="account_settings_description_label">Название аккаунта</string>
     <string name="account_settings_edit_quick_responses_label">Быстрые ответы</string>
@@ -77,6 +77,7 @@
     <string name="account_setup_account_type_headline">Тип аккаунта</string>
     <string name="account_setup_account_type_instructions">Выберите тип аккаунта</string>
     <string name="account_setup_account_type_title">Настройка аккаунта</string>
+    <string name="account_setup_address_label">Email</string>
     <string name="account_setup_autodiscover_dlg_authfail_message">Подтвердите корректность логина и пароля аккаунта</string>
     <string name="account_setup_autodiscover_dlg_authfail_title">Проблема с настройками аккаунта</string>
     <string name="account_setup_basics_email_label">Адрес Email</string>
@@ -87,7 +88,9 @@
     <string name="account_setup_check_settings_check_incoming_msg">Проверка настроек сервера входящих сообщений…</string>
     <string name="account_setup_check_settings_check_outgoing_msg">Проверка настроек сервера исходящих сообщений…</string>
     <string name="account_setup_check_settings_retr_info_msg">Получение информации аккаунта…</string>
+    <string name="account_setup_correct_address_tips">Введите адрес Email</string>
     <string name="account_setup_creating_account_msg">Авторизация аккаунта…</string>
+    <string name="account_setup_deleting_account_msg">Удаление аккаунта…</string>
     <string name="account_setup_exchange_certificate_title">Сертификат клиента</string>
     <string name="account_setup_exchange_device_id_label">Идентификатор мобильного устройства</string>
     <string name="account_setup_exchange_no_certificate">Не используется</string>
@@ -468,7 +471,7 @@
     <string name="loading_conversations">Загрузка…</string>
     <string name="loading_from_remote">Поиск на сервере…</string>
     <string name="local_search">Локальный поиск</string>
-    <string name="local_search_result">Найдено сообщений в телефоне: %s</string>
+    <string name="local_search_result">Найдено сообщений на устройстве: %s</string>
     <string name="login">Вход</string>
     <string name="login_failed_ticker">Ошибка авторизации \"%s\"</string>
     <string name="login_failed_title">Не удалось войти в аккаунт</string>
@@ -608,6 +611,7 @@
     <string name="outbox_alert_certificate_error">Сертификат почты исключен. Обновите его.</string>
     <string name="outbox_alert_description_auth_error">Ошибка аутентификации во время синхронизации папки \"Исходящие\"</string>
     <string name="outbox_alert_description_http_error">Ошибка HTTP во время синхронизации папки \"Исходящие\"</string>
+    <string name="outbox_alert_description_insufficient_storage_error">Память заполнена на сервере почты</string>
     <string name="outbox_alert_description_provision_error">Ошибка положения во время синхронизации папки \"Исходящие\"</string>
     <string name="outbox_alert_description_sent_failed">Размер прикрепленного файла слишком большой</string>
     <string name="outbox_alert_duplicate_click">Синхронизация…</string>
@@ -717,6 +721,8 @@
     <string name="recipient_needed">Получатель не выбран</string>
     <string name="recipient_needed_title">Предупредить</string>
     <string name="recipient_null_dialog_title">Предупреждение</string>
+    <string name="reduce_the_receiving_frequencye_summary">Синхронизировать почту реже в установленное время</string>
+    <string name="reduce_the_receiving_frequencye_title">Интеллектуальная синхронизация</string>
     <string name="refresh">Обновить</string>
     <string name="refreshing">Обновление…</string>
     <string name="refreshing_done">Синхронизация завершена</string>
@@ -750,6 +756,8 @@
     <string name="save_attachment">Сохранить</string>
     <string name="save_draft">Сохранить черновик</string>
     <string name="save_draft_failed">Не удалось сохранить черновик</string>
+    <string name="save_power_summary">Настройки экономии батареи</string>
+    <string name="save_power_title">Экономия батареи</string>
     <string name="saved">"Загружено: %s | "</string>
     <string name="saving">Сохранение…</string>
     <string name="search_attachment">Поиск</string>
@@ -783,6 +791,7 @@
 \u0009 (проверьте, включена ли автосинхронизация)"</string>
     <string name="ser_resp_err_map_nouser">Такого пользователя нет</string>
     <string name="ser_resp_err_map_or">или</string>
+    <string name="ser_resp_err_map_pserr">Неверное имя пользователя или пароль</string>
     <string name="ser_resp_err_map_serclosed">Сервер закрыт</string>
     <string name="ser_resp_err_map_ssl">Попробуйте выбрать пункт \"SSL/TLS (принимать все сертификаты)\" в параметрах безопасности</string>
     <string name="set_network">Установить сеть</string>

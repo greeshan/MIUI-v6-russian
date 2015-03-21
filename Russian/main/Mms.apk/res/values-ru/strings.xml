@@ -450,6 +450,8 @@ SMS (%1$d), MMS (%2$d)."</string>
     <string name="title_collapse_sp_messages">Группа сервисных сообщений</string>
     <string name="pref_collapse_sp_messages_summary">Группировать сервисные сообщения в одну категорию</string>
     <string name="sp_conversation_title">Уведомления</string>
+    <string name="title_show_sms_template">Копировать проверочные коды</string>
+    <string name="pref_show_sms_template_summary">Автоматически копировать и вставлять проверочные коды из SMS</string>
     <string name="sp_mark_as_read_title">Отметить как прочитанные</string>
     <string name="sp_mark_as_read">Отметить все сообщения как прочитанные?</string>
     <string name="sp_mark_as_read_progress">Обработка…</string>
@@ -536,6 +538,10 @@ SMS (%1$d), MMS (%2$d)."</string>
     <string name="snippet_picture">[фото]</string>
     <string name="audio_download_failed">Не удалось загрузить запись</string>
     <string name="hms_uri_param_err">ID запроса URL Mipub не может быть пустым</string>
+    <string name="pref_title_sms_validity_period">Период действия SMS</string>
+    <string name="pref_title_mms_validity_period">Период действия MMS</string>
+    <string name="open_url_with_web">Разрешить открывать ссылки из сообщений?</string>
+    <string name="block_messaging_entry_title">Блокированные SMS</string>
     <string name="add_bookmark">Избранные</string>
     <string name="mx_activate_int_popup_msg">Обмен облачными сообщениями позволяет пользователям MIUI общаться между собой без использования денежных средств</string>
     <string name="mx_activate_popup_msg">Облачные сообщения позволяют пользователям MIUI обмениваться сообщениями бесплатно через интернет</string>

@@ -26,7 +26,7 @@
         <item>Град</item>
         <item>Пыль</item>
         <item>Дымка</item>
-        <item>Ледяной дождь</item>
+        <item>Морозный дождь</item>
         <item>Нет данных</item>
     </string-array>
     <string-array name="weather_indexes_uv_level">

@@ -16,6 +16,10 @@
     <string name="notif_title_multiple_downloading">Загрузка файлов: %1$d</string>
     <string name="notif_title_file_size">Размер: %1$d</string>
     <string name="paused_waiting_for_network">Ожидание сети</string>
+    <string name="warning_tip_title">Предупреждение о трафике</string>
+    <string name="warning_tip_content">При загрузке файлов по мобильному интернету может взиматься дополнительная плата оператором. Остановить загрузку?</string>
+    <string name="warning_tip_cancel">Отмена</string>
+    <string name="warning_tip_ok">ОК</string>
     <string name="app_label">Диспетчер загрузки</string>
     <string name="permlab_downloadManager">Доступ к менеджеру загрузки</string>
     <string name="permdesc_downloadManager">Приложение получит доступ к диспетчеру загрузок и сможет загружать файлы через него. Вредоносные программы смогут таким образом прерывать загрузки и просматривать личную информацию</string>

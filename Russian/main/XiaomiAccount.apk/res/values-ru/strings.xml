@@ -68,7 +68,7 @@
     <string name="passport_error_verify_code">Код введен неверно</string>
     <string name="passport_error_dup_email">Этот Email уже привязан к другому аккаунту</string>
     <string name="passport_error_login">Ошибка авторизации</string>
-    <string name="passport_relogin_notice">Необходимо авторизироваться повторно</string>
+    <string name="passport_relogin_notice">Необходимо авторизоваться повторно</string>
     <string name="passport_quick_login_title">Введите пароль</string>
     <string name="passport_quick_login_step2_title">Двухэтапная авторизация</string>
     <string name="passport_account_name">Аккаунт: %1$s</string>
@@ -100,7 +100,7 @@
     <string name="passport_xiaomi_account_dspt">С помощью Mi аккаунта вы сможете пользоваться различными сервисами от Xiaomi</string>
     <string name="passport_remove_unactivated_account_notice">Mi аккаунт не активирован</string>
     <string name="passport_remove_confirm">Удалить</string>
-    <string name="passport_find_password_on_web_msg">Посетите account.xiaomi.com для сброса пароля</string>
+    <string name="passport_find_password_on_web_msg">Посетите account.mi.com для сброса пароля</string>
     <string name="passport_relogin">Войти повторно</string>
     <string name="passport_skip_login">Пропустить авторизацию</string>
     <string name="passport_checking_account">Изменение пароля…</string>
@@ -200,7 +200,7 @@
     <string name="hide_mibi_info">Информация о Mi Credit скрыта</string>
     <string name="failed_get_mibi_info">Не удается получить Mi Credit</string>
     <string name="mipay_center">Аккаунт банка</string>
-    <string name="mi_service">Поддержка</string>
+    <string name="mi_support_service">Поддержка</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="bind_sina_weibo">Привязка Sina Weibo</string>
     <string name="bind_weibo_description">Sina WeiBo — китайский сервис микроблогов, с помощью которого вы сможете найти информацию о контактах.</string>
@@ -250,6 +250,7 @@
     <string name="account_user_name_dialog_title">Введите имя пользователя</string>
     <string name="account_user_using_weibo_avatar">Использовать фото профиля Sina</string>
     <string name="account_user_using_qq_avatar">Использовать фото профиля QQ</string>
+    <string name="account_user_using_facebook_avatar">Использовать фото профиля Facebook</string>
     <string name="account_user_avatar_from_camera">Снять фото</string>
     <string name="account_user_avatar_from_album">Выбрать фото</string>
     <string name="photoPickerNotFoundText">Нет фото</string>
@@ -258,6 +259,9 @@
     <string name="account_error_longer_user_name">Имя не должно содержать более 20 символов</string>
     <string name="account_error_user_birthday">Неверная дата рождения</string>
     <string name="account_crop_user_avatar">Обрезать фото</string>
+    <string name="sns_access_token_expired_warning">Время авторизации вышло. Войдите повторно в этот аккаунт.</string>
+    <string name="user_avatar_uploading">Загрузка…</string>
+    <string name="user_avatar_update_title">Фото профиля</string>
     <string name="bind_settings">Дополнительные аккаунты</string>
     <string name="cloud_service">Mi Cloud</string>
     <string name="account_bind_settings">Дополнительные аккаунты</string>
@@ -276,6 +280,7 @@
     <string name="micloud_sync_state_synced">Данные синхронизированы</string>
     <string name="micloud_sync_state_syncing">Синхронизация…</string>
     <string name="micloud_sync_state_stop">Синхронизация остановлена</string>
+    <string name="micloud_sync_state_pending">Ожидание</string>
     <string name="micloud_sync_state_need_wifi">Ожидание сети Wi-Fi</string>
     <string name="micloud_space_info">Свободно: %s</string>
     <string name="loading_micloud_sync_data">Загрузка…</string>
@@ -290,7 +295,7 @@
     <string name="device_list__header">Мои устройства</string>
     <string name="device_trust_info">Доверенное устройство</string>
     <string name="rename_current_device">Изменить имя устройства</string>
-    <string name="about_device_info">О телефоне</string>
+    <string name="about_device_info">Об устройстве</string>
     <string name="other_devices">Другие устройства</string>
     <string name="remove_trust_notice">Удалить из списка доверенных и выйти</string>
     <string name="remove_trust_btn">Удалить из доверенных</string>
@@ -422,7 +427,7 @@
     <string name="reg_via_sms_alert">При активации по SMS может взиматься дополнительная плата оператором</string>
     <string name="register_account_goto_email">Войдите в папку \"Входящие\"</string>
     <string name="register_account_verified_confirm">Аккаунт уже подтвержден</string>
-    <string name="relogin_notice">Необходимо авторизироваться повторно</string>
+    <string name="relogin_notice">Необходимо авторизоваться повторно</string>
     <string name="remove_confirm">Удалить</string>
     <string name="remove_unactivated_account_notice">Mi аккаунт не активирован</string>
     <string name="show_password">Показать пароль</string>
@@ -515,4 +520,5 @@
     <string name="sim_unactivated_title">Ваша SIM карта не активирована</string>
     <string name="choose_which_one_sim">Выберите номер телефона</string>
     <string name="sim_index_info">SIM карта %1$d - %2$s</string>
+    <string name="mi_service">Поддержка</string>
 </resources>

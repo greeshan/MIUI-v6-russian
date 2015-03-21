@@ -8,7 +8,7 @@
     <string name="save_photo">Сохранить изменения?</string>
     <string name="yes">Да</string>
     <string name="no">Нет</string>
-    <string name="save">Готово</string>
+    <string name="save">Сохранить</string>
     <string name="autofix">Авто</string>
     <string name="crop">Обрезать</string>
     <string name="crossprocess">Кросс-обработка</string>
@@ -89,8 +89,8 @@
 Файлов: %1$d 
 Папок: %2$d"</string>
     <string name="confirm_delete_init_title">Предупреждение</string>
-    <string name="confirm_delete_init_message">Файлы будут удалены из памяти телефона и Mi Cloud. Если вы хотите удалить их только из памяти телефона, то удалите через локальные альбомы.</string>
-    <string name="confirm_delete_has_cloud_local_image_video">Удалить выбранные файлы из памяти телефона и Mi Cloud? (%s)</string>
+    <string name="confirm_delete_init_message">Файлы будут удалены из памяти устройства и Mi Cloud. Если вы хотите удалить их только из памяти устройства, то удалите через локальные альбомы.</string>
+    <string name="confirm_delete_has_cloud_local_image_video">Удалить выбранные файлы из памяти устройства и Mi Cloud? (%s)</string>
     <string name="confirm_delete_has_cloud_image_video">Удалить выбранные файлы из Mi Cloud? (%s)</string>
     <string name="confirm_delete_has_local_image_video">Удалить выбранные файлы? (%s)</string>
     <string name="cancel">Отмена</string>
@@ -246,7 +246,7 @@
     <string name="pick_too_much_tips">Выбрано слишком много фото. Максимум: %d.</string>
     <string name="sd_not_available">SD карта отключена или недоступна</string>
     <string name="internal_sd_card">Внутренняя память</string>
-    <string name="internal_sd_card_hm">Память телефона</string>
+    <string name="internal_sd_card_hm">Память устройства</string>
     <string name="external_sd_card">SD карта</string>
     <string name="external_usb_device">USB накопитель</string>
     <string name="external_usb_device_hm">USB накопитель</string>
@@ -266,8 +266,9 @@
     <string name="operation_set_as_screensaver">Установить альбом на заставку</string>
     <string name="operation_unset_as_screensaver">Отменить заставку</string>
     <string name="operation_add_picture">Добавить фото</string>
-    <string name="operation_add_secret">В секрет</string>
-    <string name="operation_remove_secret">Из секрета</string>
+    <string name="operation_add_secret">В секретный альбом</string>
+    <string name="operation_remove_secret">Убрать из альбома</string>
+    <string name="operation_remove_from_face_album">Удалить лицо</string>
     <string name="directory_info_divider">"  |  "</string>
     <string name="global_setting">Настройки</string>
     <string name="no_storage_disable_cloud_albums">Облачные альбомы недоступны</string>
@@ -490,7 +491,7 @@
     <string name="secret_album_display_name">Секретный альбом</string>
     <string name="miui_capture_screen_folder_display_name">Скриншоты</string>
     <string name="internal_camera_folder_display_name">Камера</string>
-    <string name="internal_miui_capture_screen_folder_display_name">Скриншоты в памяти телефона</string>
+    <string name="internal_miui_capture_screen_folder_display_name">Скриншоты в памяти устройства</string>
     <string name="miliao_painting_folder_display_name">Рисунки MiTalk</string>
     <string name="miliao_saved_folder_display_name">Изображения MiTalk</string>
     <string name="mishop_saved_folder_display_name">Изображения Mi Маркета</string>
@@ -543,7 +544,7 @@
     <string name="ubifocus_guide_text">Удерживайте для повторной фокусировки</string>
     <string name="priority_storage">Сохранение на SD карту</string>
     <string name="priority_storage_summary">Автоматически сохранять файлы на SD карту, когда она подключена.</string>
-    <string name="abandon">Отказ</string>
+    <string name="abandon">Отмена</string>
     <string name="paint_cancel_title">Отмена</string>
     <string name="paint_cancel_context">Отменить редактирование?</string>
     <string name="paint_crop_cancel_title">Не изменять</string>
@@ -577,7 +578,7 @@
     <string name="cloud_share_guide_message">Вы можете делиться своими альбомами, просматривать альбомы друзей, а также добавлять фото в альбом вместе!</string>
     <string name="cloud_share_guide_title">Теперь можно обмениваться альбомами!</string>
     <string name="cloud_tab_locations">Местоположение</string>
-    <string name="confirm_delete_home_merge_item">Удалить %s фото из памяти телефона и Mi Cloud?</string>
+    <string name="confirm_delete_home_merge_item">Удалить %s фото из памяти устройства и Mi Cloud?</string>
     <string name="confirm_delete_pictures">Фото: %s</string>
     <string name="confirm_delete_this_picture">Удалить изображение?</string>
     <string name="confirm_delete_this_video">Удалить видео?</string>

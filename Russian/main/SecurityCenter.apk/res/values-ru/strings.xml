@@ -122,9 +122,9 @@
     <string name="power_dialog_delete_dialog_title">Удалить режим</string>
     <string name="power_dialog_delete_dialog_delete">Удалить выбранный режим пользователя?</string>
     <string name="power_dialog_delete_dialog_cannot_delete_default">Невозможно удалить активный режим пользователя</string>
-    <string name="power_dialog_delete_dialog_cannot_delete_low_battery">Телефон настроен на переключение к этому режиму, когда батарея разряжена. Необходимо изменить параметры перед удалением.</string>
+    <string name="power_dialog_delete_dialog_cannot_delete_low_battery">Устройство настроено на переключение к этому режиму, когда батарея разряжена. Необходимо изменить параметры перед удалением.</string>
     <string name="power_dialog_delete_dialog_cannot_delete_is_my_mode">Невозможно удалить используемый режим</string>
-    <string name="power_dialog_delete_dialog_cannot_delete_on_time">Телефон настроен на переключение к этому режиму по расписанию. Необходимо изменить параметры перед удалением.</string>
+    <string name="power_dialog_delete_dialog_cannot_delete_on_time">Устройство настроено на переключение к этому режиму по расписанию. Необходимо изменить параметры перед удалением.</string>
     <string name="power_save_choose_mode">Режим</string>
     <string name="power_save_low_battery_title">Автопереключение</string>
     <string name="power_save_low_battery_auto_save_title">Автопереключение</string>
@@ -162,8 +162,8 @@
     <string name="power_new_choose_mode">Выбор режима</string>
     <string name="power_save_low_battery_option_recovery_title">Если батарея заряжена</string>
     <string name="power_save_on_time_option_recovery_title">Режим по окончании периода</string>
-    <string name="power_dialog_delete_dialog_cannot_delete_low_out_battery">Телефон настроен на переключение к этому режиму, когда батарея заряжается. Необходимо изменить параметры перед удалением.</string>
-    <string name="power_dialog_delete_dialog_cannot_delete_on_out_time">Телефон настроен на переключение к этому режиму по расписанию. Необходимо изменить параметры перед удалением.</string>
+    <string name="power_dialog_delete_dialog_cannot_delete_low_out_battery">Устройство настроено на переключение к этому режиму, когда батарея заряжается. Необходимо изменить параметры перед удалением.</string>
+    <string name="power_dialog_delete_dialog_cannot_delete_on_out_time">Устройство настроено на переключение к этому режиму по расписанию. Необходимо изменить параметры перед удалением.</string>
     <string name="power_mode_chooser_button_text">Применить</string>
     <string name="power_20s_enter_mode">%1$d сек. переключиться в режим %2$s</string>
     <string name="power_notify_lowbattery">заряд менее %1$d%%</string>
@@ -337,7 +337,7 @@
     <string name="hints_scan_result_safe">Система защищена</string>
     <string name="hints_scan_result_risk">Найдены угрозы</string>
     <string name="hints_scan_result_virus">Найдены вирусы</string>
-    <string name="hints_virus_scan_result_descx">Это приложение представляет серьезную угрозу безопасности вашего телефона</string>
+    <string name="hints_virus_scan_result_descx">Это приложение представляет серьезную угрозу безопасности вашего устройства</string>
     <string name="hints_unknown_virus_name">Неизвестно</string>
     <string name="descx_quick_scan_done">Сканирование завершено</string>
     <string name="descx_quick_scan_cancel">Сканирование отменено</string>

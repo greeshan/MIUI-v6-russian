@@ -338,12 +338,12 @@
     <string name="sina_token_expired_warning">Истек срок действия аккаунита Weibo, привяжите аккаунт заново.</string>
     <string name="sina_token_invalid_warning">Неверный аккаунт Weibo, привяжите аккаунт заново.</string>
     <string name="sina_share_fail_content_repeat">Не удается отправить. Содержимое уже существует.</string>
-    <string name="recharge_pay_hint">При поддержке Xiaomi</string>
     <string name="express_company_empty">Нет компаний</string>
     <string name="express_inquiry_logistics_empty">Выберите логистику</string>
     <string name="express_inquiry_logistics_indication">Курьерская компания</string>
     <string name="express_no_tracking_number">Нет номера отслеживания</string>
     <string name="menu_about_yellow_page">О странице</string>
+    <string name="recharge_pay_hint">При поддержке Xiaomi</string>
     <string name="select">Выбрать</string>
     <string name="account_unactivated">Mi аккаунт не активирован</string>
     <string name="all_resources">Все</string>
@@ -466,17 +466,17 @@
     <string name="resource_local">Локально %1$s</string>
     <string name="resource_menu_refresh">Обновить</string>
     <string name="resource_mute">Нет</string>
-    <string name="resource_my">Телефон</string>
+    <string name="resource_my">Локально</string>
     <string name="resource_no_result">Нет результатов</string>
     <string name="resource_notification_default">Уведомл.</string>
     <string name="resource_on_trial">Применение пробной версии: %1$s</string>
     <string name="resource_online">Онлайн %1$s</string>
-    <string name="resource_pack_confirm">Куплено компонентов темы: %1$d. Будет выгоднее купить полный комплект, чем докупить по одному компоненту.</string>
+    <string name="resource_pack_confirm">Куплено тем: %1$d. Будет выгоднее купить полный комплект, чем докупать по одной теме.</string>
     <string name="resource_pack_discount_info">"Экономия: 
 %1$s"</string>
     <string name="resource_pack_price_info">"Цена: 
 %1$s"</string>
-    <string name="resource_pack_warning">Куплено компонентов темы: %1$d. Будет выгоднее купить остальные компоненты по одному, чем полный комплект.</string>
+    <string name="resource_pack_warning">Куплено тем: %1$d. Будет выгоднее купить остальные темы по одной, чем полный комплект.</string>
     <string name="resource_present">Подарить</string>
     <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Бесплатно</string>

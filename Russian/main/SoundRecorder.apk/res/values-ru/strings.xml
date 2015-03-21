@@ -29,6 +29,8 @@
     <string name="deleting_message">Удаление…</string>
     <string name="rename_dialog_title">Переименовать запись</string>
     <string name="rename_duplicate">Такое название уже существует</string>
+    <string name="rename_no_more_tip">Больше не показывать</string>
+    <string name="record_picker_title">Диктофон</string>
     <string name="dialog_title_storage_full">Место для сохранения заполено</string>
     <string name="dialog_content_storage_full">Из-за нехватки места для сохранения, запись была остановлена. Открыть файловый менеджер для очистки ненужных файлов?</string>
     <string name="status_bar_recording">Запись…</string>
@@ -38,6 +40,7 @@
     <string name="record_name_hour">.</string>
     <string name="sound_recorder_settings">Настройки</string>
     <string name="preference_led_indicator">Индикатор записи</string>
+    <string name="preference_tip_rename">Указывать имя вручную</string>
     <string name="preference_led_indicator_prompt">Мигать светодиодом при записи в заблокированном режиме</string>
     <string name="preference_record_type_title">Формат записи</string>
     <string name="preference_scenes">Режим записи</string>
@@ -98,7 +101,6 @@
     <string name="play_record">Играть</string>
     <string name="record_download_manager">Загрузки</string>
     <string name="record_loading">Загрузка записей…</string>
-    <string name="record_picker_title">Диктофон</string>
     <string name="record_saving">Сохранение записи…</string>
     <string name="search_for_recordings_in_folders">Поиск записей в папках</string>
     <string name="second">%d сек.</string>

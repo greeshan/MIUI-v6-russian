@@ -32,8 +32,8 @@
 %1$s"</string>
     <string name="resource_pack_discount_info">"Экономия: 
 %1$s"</string>
-    <string name="resource_pack_confirm">Куплено компонентов темы: %1$d. Будет выгоднее купить полный комплект, чем докупить по одному компоненту.</string>
-    <string name="resource_pack_warning">Куплено компонентов темы: %1$d. Будет выгоднее купить остальные компоненты по одному, чем полный комплект.</string>
+    <string name="resource_pack_confirm">Куплено тем: %1$d. Будет выгоднее купить полный комплект, чем докупать по одной теме.</string>
+    <string name="resource_pack_warning">Куплено тем: %1$d. Будет выгоднее купить остальные темы по одной, чем полный комплект.</string>
     <string name="resource_title">Информация</string>
     <string name="resource_download">Скачать</string>
     <string name="resource_downloading">Загрузка…</string>
@@ -191,7 +191,7 @@
     <string name="resource_title_hot_subject">Популярные</string>
     <string name="resource_download_notification_title_one">Скачивание темы завершено</string>
     <string name="resource_download_notification_title_many">Скачано тем: %1$s</string>
-    <string name="resource_download_notification_content">Нажмите для просмотра</string>
+    <string name="resource_tab_to_view">Нажмите для просмотра</string>
     <string name="app_name">Темы</string>
     <string name="theme_changing_dialog_title">"Применение темы: "</string>
     <string name="theme_changed_message">Применено</string>
@@ -245,8 +245,8 @@
     <string name="apply_default_font_tip">Продолжить использовать текущий шрифт?</string>
     <string name="theme_yes">ОК</string>
     <string name="theme_no">Отмена</string>
-    <string name="title_component">Компоненты</string>
-    <string name="theme_multiple_button_title_customize">Компоненты</string>
+    <string name="title_component">Ресурсы</string>
+    <string name="theme_multiple_button_title_customize">Ресурсы</string>
     <string name="title_system_resource">Системные</string>
     <string name="long_ringtone_resource">Длинные</string>
     <string name="short_ringtone_resource">Короткие</string>
@@ -333,6 +333,7 @@
     <string name="gift_purchased_list_empty_with_received_list_empty">Нет подарков</string>
     <string name="gift_purchased_list_empty">Нет отправленных подарков</string>
     <string name="gift_received_list_empty">Вы не получали подарки</string>
+    <string name="gift_received_notification_title">%s подарил(а) вам тему</string>
     <string name="basic_info">Основная информация</string>
     <string name="default_name">По умолчанию</string>
     <string name="maml_component_customization_title">Настройки</string>
@@ -340,4 +341,5 @@
     <string name="resource_tip_select_ringtone">Мелодия не выбрана</string>
     <string name="theme_batch_has_update_text">Доступно обновлений: %1$d</string>
     <string name="resource_unable_to_access">Содержимое, которое вы ищите, недоступно в вашей стране.</string>
+    <string name="resource_download_notification_content">Нажмите для просмотра</string>
 </resources>

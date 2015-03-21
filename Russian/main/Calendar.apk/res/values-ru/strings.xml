@@ -164,6 +164,7 @@
     <string name="template_announce_item_index">Мероприятие %1$s из %2$s</string>
     <string name="acessibility_selected_marker_description">Выбранное мероприятие</string>
     <string name="do_not_check">Не проверять -></string>
+    <string name="add_topic_unsuccess">Не удалось подписаться на \"%s\"</string>
     <string name="user_notice_online_title">Уведомление</string>
     <string name="user_notice_online_ok">Продолжить</string>
     <string name="not_exist_topic_list">Не удается получить список календарей</string>
@@ -222,8 +223,8 @@
     <string name="birthday_calendar_display_name">Напоминания о днях рождения</string>
     <string name="xiaomi_calendar_display_name">Календарь Xiaomi</string>
     <string name="local_owner_account_name">Локальный аккаунт</string>
-    <string name="birthday_term">день рождения</string>
-    <string name="anniversary_term">юбилей</string>
+    <string name="birthday_term">День рождения</string>
+    <string name="anniversary_term">Юбилей</string>
     <string name="birthday_notification_title_today">%3$s: %1$s</string>
     <string name="birthday_notification_text_today">Не забудьте поздравить!</string>
     <string name="birthday_notification_title_three_days_later">Скоро %2$s: %1$s</string>
@@ -261,7 +262,13 @@
     <string name="repeat_label_choose_day">Выберите день</string>
     <string name="repeat_label_choose_week">Выберите неделю</string>
     <string name="repeat_label_choose_month">Выберите месяц</string>
-    <string name="repeat_end_label">Повтор окончания</string>
+    <string name="repeat_end_label">Окончание повтора</string>
+    <string name="repeat_end_times_unit">" раз"</string>
+    <string name="sync_notice_title">Запрос синхронизации</string>
+    <string name="sync_notice_message">Включить синхроизацию данных календаря с Mi Cloud?</string>
+    <string name="sync_notice_ok">ОК</string>
+    <string name="sync_notice_ok_toast_message">Локальные данные календаря будут синхронизироваться с Mi Cloud</string>
+    <string name="sync_notice_cancel_toast_message">Локальные данные календаря не будут синхронизироваться с Mi Cloud</string>
     <string name="more_string">Еще %1$s…</string>
     <string name="copy_email">Копировать адрес Email</string>
     <string name="copy_number">Копировать номер телефона</string>
