@@ -258,7 +258,6 @@
     <string name="share_success">Отправка завершена</string>
     <string name="share_cancel">Отправка отменена</string>
     <string name="share_failed">Ошибка отправки</string>
-    <string name="less_flow_mode">Режим синхронизации</string>
     <string name="micloud_intro_01_part_01">Экономия</string>
     <string name="micloud_intro_01_part_02">Облачные сообщения позволяют общаться пользователям MIUI бесплатно по сети Wi-Fi.</string>
     <string name="micloud_intro_02_part_01">Удобная синхронизация</string>
