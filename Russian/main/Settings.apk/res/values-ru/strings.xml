@@ -3007,4 +3007,5 @@
     <string name="tnhwrevision_settings_list_item_title">Информация HW устройства</string>
 	<string name="rom_author_title">MIUI Сборка</string>
     <string name="rom_version_title">Проверить обновления</string>
+	<string name="greeshan_xposed_in_settings">Модули</string>
 </resources>
