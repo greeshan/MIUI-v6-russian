@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="health_link_title">
+        <item>1. Скорая помощь 24/7</item>
+        <item>2. Полезные советы</item>
+        <item>3. Экстренный вызов транспорта</item>
+        <item>4. Помощь при авариях</item>
+        <item>5. Связаться с родными</item>
+        <item>6. Вызов скорой помощи</item>
+        <item>7. Руководство по госпитализации</item>
+    </string-array>
+    <string-array name="health_link_content">
+        <item>Круглосуточная поддержка двуязычных специалистов скорой помощи.</item>
+        <item>В реальных случаях, пользователь по телефону может запросить совет от скорой помощи.</item>
+        <item>После получения звонка от пользователя, колл-центр осуществит вызов скорой помощи (120 или 999).</item>
+        <item>Поддержка пользователей при предоставлении информации об происшествии.</item>
+        <item>Данные предоставлены пользователями для уведомления родственников или немедленной связи.</item>
+        <item>Пользователю будет предоставлена ближайшая больница для госпитализации. Так же он имеет право выбрать по своему желанию и усмотрению.</item>
+        <item>Предоставление всей информации по процессу госпитализации.</item>
+    </string-array>
+    <string-array name="weeks">
+        <item>Пн.</item>
+        <item>Вт.</item>
+        <item>Ср.</item>
+        <item>Чт.</item>
+        <item>Пт.</item>
+        <item>Сб.</item>
+        <item>Вс.</item>
+    </string-array>
+    <string-array name="weeks_short">
+        <item>Пн.</item>
+        <item>Вт.</item>
+        <item>Ср.</item>
+        <item>Чт.</item>
+        <item>Пт.</item>
+        <item>Сб.</item>
+        <item>Вс.</item>
+    </string-array>
+    <string-array name="months">
+        <item>Январь</item>
+        <item>Февраль</item>
+        <item>Март</item>
+        <item>Апрель</item>
+        <item>Май</item>
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>Август</item>
+        <item>Сентябрь</item>
+        <item>Октябрь</item>
+        <item>Ноябрь</item>
+        <item>Декабрь</item>
+    </string-array>
+    <string-array name="select_days_simple">
+        <item>Однократно</item>
+        <item>Каждый день</item>
+        <item>С Пн. по Пт.</item>
+        <item>Выбрать дни</item>
+    </string-array>
+    <string-array name="fortune">
+        <item>Легко достичь цель сегодня, но не легко каждый день.</item>
+        <item>Не легко достигать цель каждый день</item>
+        <item>Вы ставите рекорды каждый день!</item>
+        <item>Наслаждайтесь самосовершенствованием!</item>
+        <item>Пока вы пытаетесь - вы никогда не будете неудачником.</item>
+        <item>Мы то, что мы делаем</item>
+        <item>Достигнута цель дня</item>
+        <item>Бросьте вызов себе сегодня, чтобы стать лучше завтра.</item>
+        <item>Просто сделайте это</item>
+        <item>Продолжайте практиковаться</item>
+    </string-array>
+    <string-array name="weather_aqi_descriptions">
+        <item>Отлично</item>
+        <item>Хорошо</item>
+        <item>Низкое загрязнение</item>
+        <item>Среднее загрязнение</item>
+        <item>Тяжелое загрязнение</item>
+        <item>Сильное загрязнение</item>
+    </string-array>
+    <string-array name="weight_unit">
+        <item>кг</item>
+        <item>кг</item>
+        <item>фунт</item>
+    </string-array>
+    <string-array name="weight_body_figures">
+        <item>Слишком легкий</item>
+        <item>Нормальный</item>
+        <item>Перевес</item>
+        <item>Ожирение</item>
+        <item>Очень толстый</item>
+    </string-array>
+    <string-array name="weight_dynamic_list_bmi_tips">
+        <item>Индекс Массы Тела: Худощавое</item>
+        <item>Индекс Массы Тела: Обычное</item>
+        <item>Индекс Массы Тела: Полное</item>
+        <item>Индекс Массы Тела: Жирное</item>
+    </string-array>
+    <string-array name="weight_report_suggestions_boy">
+        <item>Ваше тело - дар божий, заботьтесь о нем. Мы советуем вам делать анаэробные упражнения и употреблять протеин.</item>
+        <item>У вас стандартное тело. Следуйте привычному питанию и упражнениям!</item>
+        <item>Рекомендуется сократить потребление жиров, сохраняя потребление белка и больше уделять внимание спорту.</item>
+        <item>Рекомендуется сократить потребление жиров, сохраняя потребление белка и больше уделять внимание спорту.</item>
+    </string-array>
+    <string-array name="weight_report_suggestions_girl">
+        <item>Ваше тело - дар божий, заботьтесь о нем. Мы советуем вам делать анаэробные упражнения и употреблять протеин.</item>
+        <item>У вас стандартное тело. Следуйте привычному питанию и упражнениям!</item>
+        <item>Рекомендуется сократить потребление жиров, сохраняя потребление белка и больше уделять внимание спорту.</item>
+        <item>Рекомендуется сократить потребление жиров, сохраняя потребление белка и больше уделять внимание спорту.</item>
+    </string-array>
+    <string-array name="weight_report_result_without_goal">
+        <item>Превысили цель</item>
+        <item>Не выполнили цель</item>
+        <item>Выполнили цель!</item>
+    </string-array>
+    <string-array name="weight_report_result_with_goal_gainweight">
+        <item>"Цель не достигнута
+Приложите больше усилий"</item>
+        <item>"Цель не достигнута
+Приложите больше усилий"</item>
+        <item>"Цель не достигнута
+Приложите больше усилий"</item>
+        <item>"Поздравляем!
+Вы превзошли свою цель %1$s%2$s"</item>
+    </string-array>
+    <string-array name="weight_report_result_with_goal_loseweight">
+        <item>"Цель не достигнута
+Приложите больше усилий"</item>
+        <item>"Цель не достигнута
+Приложите больше усилий"</item>
+        <item>"Цель не достигнута
+Приложите больше усилий"</item>
+        <item>"Поздравляем!
+Вы превзошли свою цель %1$s%2$s"</item>
+    </string-array>
+    <string-array name="weight_test_unit">
+        <item>кг</item>
+        <item>цзинь</item>
+        <item>фунт</item>
+    </string-array>
+</resources>
