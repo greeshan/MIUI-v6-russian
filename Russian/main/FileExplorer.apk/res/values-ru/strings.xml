@@ -331,4 +331,6 @@
      <string name="xiaomi_account">Аккаунт Xiaomi</string>
      <string name="yes">OK</string>
 	 <string name="delete_dialog_button">Удалить</string>
+	 <string name="action_mode_deselect_all">Отменить все</string>
+     <string name="action_mode_select_all">Выбрать все</string>
 </resources>
