@@ -240,5 +240,5 @@ d MMMM yyyy"</string>
 	 <string name="status_bar_network_flow_today">Сегодня: %1$s</string>
      <string name="status_bar_network_flow_content">"Сегодня: %1$s   Осталось: %2$s"</string>
 	 <string name="hint_for_long_press_app_switch_key">Зажмите для показа меню</string>
-
+	 <string name="battery_profiles">Профиль батареи</string>
 </resources>
