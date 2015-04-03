@@ -305,4 +305,8 @@
     <string name="SMS_MODENAME">Черный список</string>
     <string name="fw_blocked_count_call">"вызовов: %d | "</string>
     <string name="fw_blocked_count_sms">SMS: %d</string>
+	<string name="antispam_notification_setting_title">Уведомление о блокировке</string>
+	<string name="antispam_notificaiton_type_show_all">Показать при блокировке любого вызова</string>
+    <string name="antispam_notificaiton_type_show_except_blacklist">Показать при блокировке вызова не из списка</string>
+    <string name="antispam_notificaiton_type_show_none">"Не показывать уведомления"</string>
 </resources>
