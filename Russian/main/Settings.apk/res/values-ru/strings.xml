@@ -3011,4 +3011,10 @@
 	<string name="privacy_mode_title">Разрешения</string>
     <string name="privacy_mode_summary">Вы можете защетить свои данные от других</string>
 	<string name="device_security_settings_title">Защита</string>
+	<string name="status_bar_settings_enable_notification">Разрешить уведомления</string>
+    <string name="status_bar_settings_show_home_message">Значки на ярлыке</string>
+    <string name="status_bar_settings_show_keyguard_notification">Показать на экране блокировки</string>
+    <string name="status_bar_settings_show_keyguard_notification_summary">Показать плавающие уведомления на экране блокировки и почти везде</string>
+    <string name="status_bar_settings_notification_sound_vibrate">Звук и вибрация</string>
+    <string name="status_bar_settings_notification_led">Оповещение LED-индикатором</string>
 </resources>
