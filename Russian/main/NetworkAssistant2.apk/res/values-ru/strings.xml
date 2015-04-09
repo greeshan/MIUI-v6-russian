@@ -410,7 +410,8 @@
     <string name="today_used_traffic">Сегодня: %s</string>
     <string name="total_over_flow">Превышение: %s</string>
     <string name="privacy_prompt_purchase_history_message">Ваш номер телефона и информация об операторе будут загружены на сервер Xiaomi, чтобы получить историю платежей.</string>
-	<string name="notify_setting_pkg_title_for_slotnum">Установить месячный лимит для %s</string>
+	<string name="notify_setting_pkg_title_for_slotnum">Задать месячный лимит для %s</string>
 	<string name="lock_screen_traffic_guide_notification_title">Использовано %s трафика</string>
 	<string name="lock_screen_traffic_guide_notification_summary">В фоновом режиме.</string>
+	<string name="notify_daily_limit_title_for_slotnum">Задать дневной лимит для %s</string>
 </resources>

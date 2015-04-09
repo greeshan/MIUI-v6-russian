@@ -651,4 +651,5 @@
     <string name="stk_cc_ss_to_dial_error">SS запрос преобразован в DIAL запрос.</string>
     <string name="stk_cc_ss_to_ss_error">SS запрос преобразован в новый SS запрос.</string>
     <string name="stk_cc_ss_to_ussd_error">SS запрос преобразован в USSD запрос.</string>
+	<string name="mo_code_some_cf_active">"Условная переадресация"</string>
 </resources>

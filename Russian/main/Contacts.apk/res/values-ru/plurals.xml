@@ -92,4 +92,16 @@
         <item quantity="other">%d человек</item>
         <item quantity="one">1 персона</item>
      </plurals>
+    <plurals name="batch_delete_msg">
+        <item quantity="other">Удалить %d контактов?</item>
+        <item quantity="one">Удалить %d контакт?</item>
+    </plurals>
+    <plurals name="callNoAnswerTimeFormat">
+        <item quantity="other">Гудков: %d</item>
+        <item quantity="one">Гудков: %d</item>
+    </plurals>
+	<plurals name="btn_delete_multi_contacts">
+        <item quantity="other">Удалить %d контактов</item>
+        <item quantity="one">Удалить контакт</item>
+    </plurals>
 </resources>
