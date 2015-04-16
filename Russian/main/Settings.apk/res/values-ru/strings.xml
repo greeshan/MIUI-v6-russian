@@ -3008,6 +3008,7 @@
 	<string name="rom_author_title">MIUI Сборка</string>
     <string name="rom_version_title">Проверить обновления</string>
 	<string name="greeshan_xposed_in_settings">Модули</string>
+	<string name="greeshan_adaway_in_settings">Блокировка рекламы</string>
 	<string name="privacy_mode_title">Разрешения</string>
     <string name="privacy_mode_summary">Вы можете защитить свои данные от других</string>
 	<string name="device_security_settings_title">Защита</string>
