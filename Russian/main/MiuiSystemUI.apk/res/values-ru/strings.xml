@@ -160,8 +160,8 @@ d MMMM yyyy"</string>
      <string name="status_bar_recent_guide_bottom">Потяните вниз для блокировки</string>
      <string name="status_bar_recent_guide_top">Потяните вверх для закрытия</string>
      <string name="status_bar_recent_inspect_item_title">О приложении</string>
-     <string name="status_bar_recent_memory_info1">"%s "</string>
-     <string name="status_bar_recent_memory_info2">" 2G доступно"</string>
+     <string name="status_bar_recent_memory_info1">%1$sB из %2$sB доступно</string>
+     <string name="status_bar_recent_memory_info2" />
      <string name="status_bar_recording_back">Назад в диктофон</string>
      <string name="status_bar_recording_pause">Пауза. Нажмите для перехода в диктофон.</string>
      <string name="status_bar_settings_airplane">Режим полета</string>
