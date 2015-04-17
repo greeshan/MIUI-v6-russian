@@ -601,4 +601,7 @@
     <string name="auto_upload_guide">Автоматически загружать фото из других приложений в Mi Cloud</string>
     <string name="auto_upload_setting_toast">Показать дополнительные функции этой возможности в настройках Mi Cloud?</string>
     <string name="new_feature">Новая возможность</string>
+	<string name="always_rotate_alert_title">Автоповорот изображений</string>
+    <string name="always_rotate_alert_msg">Вы можете настроить это позже в настройках Галереи.</string>
+    <string name="always_rotate_alert_positive_button_text">Включить</string>
 </resources>

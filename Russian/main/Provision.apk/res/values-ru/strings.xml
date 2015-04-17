@@ -39,7 +39,6 @@
      <string name="sim_dectection_next">Продолжить</string>
      <string name="sim_redetection">Проверьте SIM-карту еще раз</string>
      <string name="summary_not_set">Не установлена</string>
-     <string name="summary_sim_card">Карта %1$d%2$s</string>
      <string name="terms_of_use">Условия предоставления услуг</string>
      <string name="terms_of_use_label">"Ваша конфиденциальность очень важна для нас. Пожалуйста, ознакомьтесь с нашими Условиями предоставления услуг и Политикой конфиденциальности чтобы понять, какую информацию мы собираем, как мы ее используем и то, что доступно для вашего выбора.
 
@@ -47,4 +46,6 @@
      <string name="user_agreement">Пользовательское соглашение</string>
      <string name="welcome">Добро пожаловать</string>
 	 <string name="title_congratulation">"Все готово!"</string>
+	 <string name="summary_sim_card">Карта %1$d</string>
+     <string name="summary_sim_card_with_operator">Карта %1$d: %2$s</string>
 </resources>
