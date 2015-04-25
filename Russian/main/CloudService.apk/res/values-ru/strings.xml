@@ -281,4 +281,15 @@
     <string name="wifi_sync">Синхронизация по Wi-Fi</string>
     <string name="finish">Завершено</string>
     <string name="micloud">Mi Cloud</string>
+	<string name="close_cloud_app_backup_notification_title">Уведомление сервиса MiCloud</string>
+    <string name="close_cloud_app_backup_notification_message">Нажмите для подробностей</string>
+    <string name="close_cloud_app_backup_title">Уведомлении о закрытии</string>
+    <string name="close_cloud_app_backup_message">Сервис облачного резервного копирования прекратит работу для сторонних приложений. Данные будут удалены 1 мая 2015. Чтобы избежать потери важной информации, создайте локальную копию прямо сейчас.</string>
+    <string name="close_cloud_app_backup_cancel">Отмена</string>
+    <string name="close_cloud_app_backup_close">Закрыть</string>
+    <string name="close_cloud_app_backup_local_backup">Создать</string>
+    <string name="cloud_app_back_up_quit_notification_content1">Сервис облачного резервного копирования прекратит работу для сторонних приложений. Данные будут удалены 1 мая 2015. Чтобы избежать потери важной информации, создайте локальную копию прямо сейчас.</string>
+    <string name="cloud_app_back_up_quit_notification_content2">*Контакты, Сообщения, Галерея и другие системные приложения MIUI не будут затронуты.</string>
+    <string name="cloud_app_back_up_quit_notification_content3">Резервное копирование</string>
+    <string name="cloud_back_up_dialog_title">Резервное копирование</string>
 </resources>

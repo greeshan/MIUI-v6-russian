@@ -37,7 +37,9 @@
         <item quantity="one">Приложения без ROOT доступа (%d)</item>
     </plurals>
     <plurals name="summary_app_update">
+        <item quantity="zero">Нет обновлений</item>
         <item quantity="other">Доступны обновления приложений: %d</item>
         <item quantity="one">Доступны обновления приложений: %d</item>
+        <item quantity="many">Доступно обновления приложений: %d</item>
     </plurals>
 </resources>

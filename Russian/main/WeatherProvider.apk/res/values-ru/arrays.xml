@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string-array name="weather_type">
+    <string-array name="weather_type">
         <item>Ясно</item>
-        <item>Местами облачность</item>
-        <item>Сплошная облачность</item>
-        <item>Туманно</item>
+        <item>Облачно</item>
+        <item>Пасмурно</item>
+        <item>Туман</item>
         <item>Сильный дождь</item>
         <item>Ливень</item>
         <item>Ливень с ураганом</item>
@@ -12,21 +12,21 @@
         <item>Дождь</item>
         <item>Сильный дождь</item>
         <item>Умеренный дождь</item>
-        <item>Небольшой дождик</item>
+        <item>Дождь</item>
         <item>Снег с дождем</item>
         <item>Метель</item>
         <item>Снег</item>
         <item>Снегопад</item>
         <item>Умеренный снег</item>
-        <item>Небольшой снежок</item>
+        <item>Снег с ветром</item>
         <item>Песочная буря</item>
-        <item>Песочный шторм</item>
-        <item>Песок</item>
+        <item>Песчаная буря</item>
+        <item>Умеренная пыль</item>
         <item>Ветренно</item>
         <item>Град</item>
         <item>Пыль</item>
         <item>Дымка</item>
-        <item>Морозный дождь</item>
+        <item>Дождь со снегом</item>
         <item>Нет данных</item>
     </string-array>
     <string-array name="weather_indexes_uv_level">

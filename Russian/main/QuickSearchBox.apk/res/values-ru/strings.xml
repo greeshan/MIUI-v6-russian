@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
+    <string name="search_in_web">Поиск в интернете</string>
+    <string name="search_in_app_store">Поиск в маркете</string>
+    <string name="xiaomi_search_label">Результаты онлайн</string>
+    <string name="distance_unit_meter">м</string>
+    <string name="distance_unit_kilometer">км</string>
+    <string name="cta_declaration_title">Условия использования</string>
+    <string name="cta_declaration">Для всех возможностей поиска, нужен доступ к сети, позиционированию, журналу вызовов, контактам и т.д. Вы согласны?</string>
+    <string name="cta_declaration_ignore">Не спрашивать больше</string>
+    <string name="cta_declaration_positive_text">ОК</string>
+    <string name="cta_declaration_negative_text">Выход</string>
+    <string name="xiaomi_suggest_base">http://global.search.xiaomi.net/global/v2/sug</string>
      <string name="app_name">Поиск</string>
      <string name="apps_search_activity" />
      <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>

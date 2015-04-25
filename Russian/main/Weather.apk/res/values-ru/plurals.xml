@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="view_realtime_clear">
+        <item quantity="other">Ясно</item>
+        <item quantity="one">Ясно</item>
+    </plurals>
     <plurals name="activity_main_update_time_in_one_hour">
         <item quantity="other">%d мин. назад</item>
         <item quantity="one">%d мин. назад</item>
@@ -13,4 +17,3 @@
         <item quantity="one">%d день назад</item>
     </plurals>
 </resources>
-
