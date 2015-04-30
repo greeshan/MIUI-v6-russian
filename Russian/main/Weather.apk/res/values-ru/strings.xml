@@ -90,4 +90,14 @@
   <string name="weather_unit_with_c">℃</string>
   <string name="weatherchina_default_url">http://weather.com.cn</string>
   <string name="weatherchina_tag">weather.com.cn</string>
+  <string name="share_menu_title">Отправить</string>
+  <string name="share_btn_cancel">Отмена</string>
+  <string name="share_btn_confirm">Отправить</string>
+  <string name="share_subject">Отправить</string>
+  <string name="share_button">Отправить</string>
+  <string name="share_weather_save_pic_fail">"Не могу сделать скриншот"</string>
+  <string name="share_title">Поделиться прогнозом</string>
+  <string name="share_weather_desc_split">,</string>
+  <string name="share_weather_desc">\#MIUI Weather#Сегодня %1$s %2$s</string>
+  <string name="share_weather_desc_alert">%1$s%2$s</string>
 </resources>

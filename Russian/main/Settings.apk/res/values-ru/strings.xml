@@ -3020,4 +3020,6 @@
     <string name="status_bar_settings_notification_led">Оповещение LED-индикатором</string>
 	<string name="location_access_on">Вкл</string>
     <string name="location_access_off">Откл</string>
+	<string name="status_bar_app_enable_on_notificationBar">Статус-бар</string>
+    <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Экран блокировки, статус-бар</string>
 </resources>

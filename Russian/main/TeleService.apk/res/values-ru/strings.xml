@@ -985,4 +985,6 @@ SIM карта будет очищена при неудачной попытк�
     <string name="wait_prompt_str">"Отправить следующие тона?
 "</string>
     <string name="wild_prompt_str">Заменить символ</string>
+	<string name="flash_when_ring_summary">Мигать вспышкой при поступлении входящего вызова</string>
+    <string name="flash_when_ring_title">Мигать вспышкой</string>
 </resources>
